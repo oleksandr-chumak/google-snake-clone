@@ -1,0 +1,10 @@
+# Google Snake Game Clone
+
+A project to improve my 2D graphics skills by replicating the classic Google Snake game.
+
+## TODO
+
+- [ ] Add sprites
+- [ ] Change snake movement logic from cell-based to velocity-based
+- [ ] Add animations
+- [ ] Add sound effects
